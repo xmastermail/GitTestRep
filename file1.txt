@@ -6,5 +6,5 @@ Add line user 1
 Конец функции
 вротой конец функции от пользвоателя 1
 add neu function
-add line 456
+add line 123
 line from user 1 - rebase
