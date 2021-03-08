@@ -7,3 +7,4 @@ Add line user 1
 вротой конец функции от пользвоателя 1
 add neu function
 add line
+line from user 1 - rebase
